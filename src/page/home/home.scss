@@ -1,0 +1,22 @@
+
+.homeBanners{
+	margin-bottom: 20px;
+}
+.swiper-home{
+	height: 200px;
+}
+.swiper-home-item{
+	border-radius: 10px;
+	overflow: hidden;
+	img{
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}
+.home-title{
+	font-size: 28px;
+	margin: 20px 0;
+	font-weight: 700;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
